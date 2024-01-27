@@ -1,2 +1,2 @@
 # Rothko-paint
-CSS box mofel
+CSS box model
