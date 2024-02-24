@@ -4,4 +4,4 @@ CSS box model
 <br> 
 <img src="https://github.com/Saraiin/Rothko-paint/blob/main/rothko%20paint.webp" alt="rothkopaint"/>
 
-drawing rothko paint using css
+drawing rothko paint using css 🎨👩🏻‍🎨
